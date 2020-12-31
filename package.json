@@ -1,0 +1,13 @@
+{
+  "name": "caixarscraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Felipe R. Broering <felipe.broering@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mkdirp": "1.0.4",
+    "path": "0.12.7",
+    "puppeteer": "5.5.0",
+    "uuid": "8.3.2"
+  }
+}
